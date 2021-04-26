@@ -327,9 +327,9 @@
         "RunScheduler": true
     },
     "PluginSettings": {
-        "Enable": false,
+        "Enable": true,
         "Plugins": {},
-        "EnableUploads": false,
+        "EnableUploads": true,
         "Directory": "./plugins",
         "PluginStates": {},
         "ClientDirectory": "./client/plugins"
