@@ -1,7 +1,7 @@
 {
     "name": "Mattermost Heroku",
     "description": "Deploy Mattermost to Heroku",
-    "repository": "https://github.com/mozilla/mattermost-heroku",
+    "repository": "https://github.com/weeebdev/mattermost-heroku",
     "keywords": [
         "mattermost",
         "nginx"
@@ -12,7 +12,7 @@
             "url": "https://github.com/cadecairos/nginx-buildpack.git#v2.0.0"
         },
         {
-            "url": "http://github.com/mozilla/mattermost-heroku.git#v2.2.0"
+            "url": "http://github.com/weeebdev/mattermost-heroku.git#v2.2.0"
         }
     ],
     "env": {
